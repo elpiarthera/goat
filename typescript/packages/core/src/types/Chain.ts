@@ -24,3 +24,7 @@ export type ChromiaChain = {
 export type FuelChain = {
     type: "fuel";
 };
+
+export type ArtheraChain = {
+    type: "arthera";
+};
